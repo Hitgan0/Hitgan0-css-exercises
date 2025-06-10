@@ -1,0 +1,14 @@
+.test, 
+.exam {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.test {
+    background-color: black;
+    color: white;
+}
+
+.exam {
+    background-color: yellow;
+}
